@@ -7,6 +7,14 @@ body {
     background-color:thistle;
     color: midnightblue;
 }
+header {
+    height: 20vh;
+}
+main {
+    height: 70vh;
+    width: 90%;
+    margin: auto;
+}
 h1 {
     text-align: center;
     font-size: 25px;
@@ -17,4 +25,5 @@ h2 {
 }
 footer {
     text-align: center;
+    height: 10vh;
 }
